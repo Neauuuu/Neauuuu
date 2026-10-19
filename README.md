@@ -44,6 +44,22 @@ Projets, tâches, ressources, inspiration, factures et espace client au même en
 <img src="https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge&logoColor=white" alt="Lovable" />
 </p>
 
+### Mon activité
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg" />
+  <img src="./assets/activity-light.svg" alt="Graphique de mon activité GitHub sur les 26 dernières semaines" width="100%" />
+</picture>
+
+<!--
+### Me suivre
+
+<p>
+<a href="LIEN_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="LIEN_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+-->
+
 ---
 
 <div align="center">
